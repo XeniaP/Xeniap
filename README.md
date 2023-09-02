@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=xeniap)
+![Profile Views](https://profile-counter.glitch.me/xeniap/count.svg)
 
 Actually I work in 
 
