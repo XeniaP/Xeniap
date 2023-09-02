@@ -11,6 +11,9 @@ Here are a few things I've picked up along my journey.
  
  ![AWS](https://img.shields.io/badge/AWS-ec7211?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesseniabecerrarivera/) || [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://img.shields.io/twitter/follow/Xniap)
