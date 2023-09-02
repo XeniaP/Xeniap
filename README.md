@@ -12,6 +12,11 @@ Here are a few things I've picked up along my journey.
  ![AWS](https://img.shields.io/badge/AWS-ec7211?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <!--START_SECTION:badges-->
+[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/10780fdb-310c-4e18-90bd-1fc30af10442 "AWS Partner: Accreditation (Technical)")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/63d48346-a4fd-4b8c-9e2a-77438a4cbf49 "AWS Certified Solutions Architect – Associate")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/4e30148f-315b-49d3-b250-816d2bcb670e "AWS Certified Cloud Practitioner")
+[![Unity Certified Developer](https://images.credly.com/size/110x110/images/4a4c8a94-f2f2-4c47-8343-207a5585aeea/unity_certified_developer.png)](http://www.credly.com/badges/dfc3ff9a-4b5b-4dae-a4fa-b725e67dd6e4 "Unity Certified Developer")
+[![CSX Cybersecurity Fundamentals Certificate](https://images.credly.com/size/110x110/images/166789bd-1505-4a4a-b59b-b7a4c2cd2699/isaca_csx.png)](http://www.credly.com/badges/93999b41-1d63-4896-a8d2-8b5803afe468 "CSX Cybersecurity Fundamentals Certificate")
 <!--END_SECTION:badges-->
 
 
