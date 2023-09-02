@@ -21,7 +21,8 @@ Here are a few things I've picked up along my journey.
 
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesseniabecerrarivera/) || [![Follow me on Twitter](https://your-image-url.com/twitter-button.png)](https://twitter.com/xniap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesseniabecerrarivera/) || ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/xniap)
+
 
 
 
