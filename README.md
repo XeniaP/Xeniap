@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=[page.id](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)&left_color=green&right_color=red)
+                    
 
 Actually I work in 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=[page.id](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)&left_color=green&right_color=red)
 
 ![TrendMicro](https://img.shields.io/badge/-Trend%20Micro-c00?&style=for-the-badge&logo=trendmicro&logoColor=white)
 
