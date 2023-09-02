@@ -54,3 +54,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pemtajo" alt="pemtajo" /> </p>
