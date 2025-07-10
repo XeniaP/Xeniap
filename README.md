@@ -6,6 +6,8 @@ Actually I work in
 
 ![TrendMicro](https://img.shields.io/badge/-Trend%20Micro-c00?&style=for-the-badge&logo=trendmicro&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeniap)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my journey.
 
