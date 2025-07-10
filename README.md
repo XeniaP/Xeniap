@@ -6,8 +6,7 @@ Actually I work in
 
 ![TrendMicro](https://img.shields.io/badge/-Trend%20Micro-c00?&style=for-the-badge&logo=trendmicro&logoColor=white)
 
-![Yessenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniap\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
+![Xenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniap\&rank_icon=github)
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my journey.
 
