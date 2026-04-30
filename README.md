@@ -1,12 +1,27 @@
-### Hi there 👋
-
 ![](https://komarev.com/ghpvc/?username=xeniap)
+### <em>Security is no longer about <strong>protection</strong>. It's about understanding <strong>risk</strong> at scale.</em>
+### Hi there 👋
+I'm Yessenia - Cloud & AI Security Specialist.
+
+I help organizations move from:
+<p>❌ Isolated Alerts ➡️ To contextual risk visibility
+<p>❌ Manual security operations ➡️ To automated, scalable security models.
+
+
 
 ![Xenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniap\&rank_icon=github\&theme=radical)
 
 Actually I work in 
 
 ![TrendMicro](https://img.shields.io/badge/-Trend%20AI-c00?&style=for-the-badge&logo=trendai&logoColor=white)
+
+## Core capabilities
+
+- Multi-cloud security architecture (AWS / Azure / GCP / Oracle )
+- CNAPP Strategy
+- DevSecOps at scale (Github, Azure DevOps, Gitlab)
+- Container & Kuberentes runtime security
+- AI & Modern threat modeling
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my journey.
@@ -27,9 +42,6 @@ Here are a few things I've picked up along my journey.
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesseniabecerrarivera/) || [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/xniap)](https://twitter.com/xniap)
-
-
-
 
 <codersrank-skills-chart username="xeniap"></codersrank-skills-chart>
 
@@ -59,3 +71,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📌 Always building. Always testing. Always breaking things (safely).
