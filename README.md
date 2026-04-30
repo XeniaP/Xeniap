@@ -6,7 +6,7 @@
 
 Actually I work in 
 
-![TrendMicro](https://img.shields.io/badge/-Trend%20Micro-c00?&style=for-the-badge&logo=trendmicro&logoColor=white)
+![TrendMicro](https://img.shields.io/badge/-Trend%20AI-c00?&style=for-the-badge&logo=trendai&logoColor=white)
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my journey.
