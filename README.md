@@ -13,7 +13,7 @@
 
 Cloud & AI Security Specialist focused on helping organizations secure modern cloud-native environments across AWS, Azure and GCP.
 
-Currently working as a Business Development Manager focused on Cloud Protection, supporting enterprise customers and strategic projects related to:
+Currently working as a Solutions Architect focused on Cloud Protection, supporting enterprise customers and strategic projects related to:
 
 - Cloud Security
 - Kubernetes & Containers
