@@ -7,32 +7,6 @@ I help organizations move from:
 <p>❌ Isolated Alerts ➡️ To contextual risk visibility
 <p>❌ Manual security operations ➡️ To automated, scalable security models.
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-a14xowcdu-xeniaps-projects.vercel.app/api?username=XeniaP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
----
-
-<img height="180em" src="https://github-readme-stats-a14xowcdu-xeniaps-projects.vercel.app/api/top-langs/?username=XeniaP&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# ⚡ GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=XeniaP&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 Actually I work in 
 
 ![TrendMicro](https://img.shields.io/badge/-Trend%20AI-c00?&style=for-the-badge&logo=trendai&logoColor=white)
@@ -59,6 +33,33 @@ Actually I work in
 [![Unity Certified Developer](https://images.credly.com/size/110x110/images/4a4c8a94-f2f2-4c47-8343-207a5585aeea/unity_certified_developer.png)](http://www.credly.com/badges/dfc3ff9a-4b5b-4dae-a4fa-b725e67dd6e4 "Unity Certified Developer")
 [![CSX Cybersecurity Fundamentals Certificate](https://images.credly.com/size/110x110/images/166789bd-1505-4a4a-b59b-b7a4c2cd2699/isaca_csx.png)](http://www.credly.com/badges/93999b41-1d63-4896-a8d2-8b5803afe468 "CSX Cybersecurity Fundamentals Certificate")
 <!--END_SECTION:badges-->
+
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-a14xowcdu-xeniaps-projects.vercel.app/api?username=XeniaP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+---
+
+<img height="180em" src="https://github-readme-stats-a14xowcdu-xeniaps-projects.vercel.app/api/top-langs/?username=XeniaP&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=XeniaP&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 
 ## 📫 Get in touch
@@ -100,75 +101,6 @@ Here are some ideas to get you started:
 <!-- Animated Typing Banner -->
 <!-- ========================= -->
 
-<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+%26+AI+Security+Specialist;CNAPP+%7C+Containers+%7C+DevSecOps;Kubernetes+Security+%7C+DSPM+%7C+AI-SPM;Always+building.+Always+testing.+Always+breaking+things+safely." />
-
-</div>
-
----
-
-# Hi there 👋
-
-I'm Yessenia — Cloud & AI Security Specialist.
-
-I help organizations move from:
-
-❌ Isolated Alerts ➜ Contextual Risk Visibility  
-❌ Manual Security Operations ➜ Automated Security at Scale  
-❌ Reactive Cloud Security ➜ CNAPP-driven Risk Reduction  
-
----
-
-# ☁️ Current Focus
-
-- Cloud Native Application Protection Platforms (CNAPP)
-- Kubernetes & Container Runtime Security
-- AI Security & AI-SPM
-- DevSecOps & Shift Left Security
-- Multi-cloud Risk Visibility
-- Detection Engineering & Cross-Layer XDR
-
----
-
-# 🔥 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,python,bash,githubactions,gitlab,prometheus,grafana,vscode,linux"/>
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-a14xowcdu-xeniaps-projects.vercel.app/api?username=XeniaP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-a14xowcdu-xeniaps-projects.vercel.app/api/top-langs/?username=XeniaP&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# ⚡ GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=XeniaP&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XeniaP&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
