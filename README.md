@@ -2,7 +2,6 @@
 <!-- Animated Typing Banner -->
 <!-- ========================= -->
 
-<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+%26+AI+Security+Specialist;Kubernetes+Security+%7C+DevSecOps;Multi-Cloud+Security+%7C+AI+Security;Always+building.+Always+learning." />
 
