@@ -87,5 +87,10 @@ I enjoy building technical demos, automation projects, integrations and security
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=XeniaP&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
+---
+👀 Visitor Counter
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=XeniaP&label=Profile%20Views&color=0e75b6&style=flat" /> </div>
+---
+📫 Contact
+<div align="center"> <a href="https://github.com/XeniaP"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/yesseniabecerrarivera"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> ```
 
