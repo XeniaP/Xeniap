@@ -9,7 +9,7 @@ I help organizations move from:
 
 
 
-![GitHub Stats](https://github-readme-stats-a14xowcdu-xeniaps-projects.vercel.app/api?username=XeniaP)](https://github-readme-stats-a14xowcdu-xeniaps-projects.vercel.app/api?username=XeniaP)
+![GitHub Stats](https://github-readme-stats-a14xowcdu-xeniaps-projects.vercel.app/api?username=XeniaP)
 
 Actually I work in 
 
